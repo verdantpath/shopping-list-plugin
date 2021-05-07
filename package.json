@@ -62,7 +62,7 @@
     "shelljs": "^0.6.0",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "url-loader": "^0.5.7",
     "vue-animated-list": "^1.0.2",
     "vue-hot-reload-api": "^1.2.0",
